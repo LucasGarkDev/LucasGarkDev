@@ -52,8 +52,8 @@ Confira o projeto completo no repositório [aqui](https://github.com/LUISDASARTI
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/lucas-garcia-de-souza-b7b908260/)
-- Email: [seuemail@example.com](lucasgarciasouza12@gmail.com)
+- LinkedIn: [www.linkedin.com/in/lucas-garcia-de-souza-b7b908260](www.linkedin.com/in/lucas-garcia-de-souza-b7b908260)
+- Email: [lucasgarciasouza12@gmail.com](lucasgarciasouza12@gmail.com)
 
 ---
 
