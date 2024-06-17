@@ -41,7 +41,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 Este projeto envolve a implementação de uma rede neural evolutiva. Ele demonstra minhas habilidades em algoritmos avançados, estrutura de dados e aprendizado de máquina. Abaixo estão algumas informações sobre o projeto:
 
 - **Tecnologias Utilizadas:**
-  - Python
+  - C e C++
   - Algoritmos Genéticos
   - Redes Neurais
 
