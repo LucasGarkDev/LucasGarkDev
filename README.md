@@ -36,7 +36,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ## 🌟 Projeto em Destaque
 
-### [Essa Rede Neural](https://github.com/LUISDASARTIMANHAS/IFES-SISTEMAS-DE-INFORMACAO/tree/PROG/ESTRUTURA%20DE%20DADOS/LISTA%20ALINHADA/TrabalhoDeRNAEvolutiva)
+### [Rede Neural - OR logico](https://github.com/LUISDASARTIMANHAS/IFES-SISTEMAS-DE-INFORMACAO/tree/PROG/ESTRUTURA%20DE%20DADOS/LISTA%20ALINHADA/TrabalhoDeRNAEvolutiva)
 
 Este projeto envolve a implementação de uma rede neural evolutiva. Ele demonstra minhas habilidades em algoritmos avançados, estrutura de dados e aprendizado de máquina. Abaixo estão algumas informações sobre o projeto:
 
